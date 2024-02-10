@@ -1,4 +1,4 @@
-# Utilizei um Copilot para iniciar uma pesquisa e após uma conversa de como criar um jogo de plataforma com C#;
+# Utilizei o Copilot para iniciar uma pesquisa e após uma conversa de como criar um jogo de plataforma com C#;
 
 # RESULTADOS DE IMAGENS, DICAS E ETC:
 <img src="Captura da Web_5-2-2024_223914_www.bing.com.jpeg">
