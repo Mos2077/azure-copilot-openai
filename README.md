@@ -15,9 +15,9 @@
 ## fonte: microsoft
 
 ## links úteis: 
-# [iagenerativa] (https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html)
-# [azureopenai] (https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/13-azure-openai.html)
+# [iagenerativa](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html)
+# [azureopenai](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/13-azure-openai.html)
 # [openaicontentfilters](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/14-azure-openai-content-filters.html)
-# [copilotandbing] (https://www.bing.com/search?toncp=0&form=NTPCHB&q=Bing+AI&showconv=1)
+# [copilotandbing](https://www.bing.com/search?toncp=0&form=NTPCHB&q=Bing+AI&showconv=1)
  
 
